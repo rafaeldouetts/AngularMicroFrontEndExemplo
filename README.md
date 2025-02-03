@@ -12,7 +12,7 @@ ng new microfrontendExemplo --create-application="false"
 
 ## 2. Adicionar projeto mfe-app
 ```bash
-    ng g application mfe-app
+ng g application mfe-app
 ```
 ## 3. adicionar o pacote do federation no mfe-app
 ```bash
